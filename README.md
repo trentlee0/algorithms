@@ -1,2 +1,3 @@
-# algorithms
-Data structures and algorithms
+# algorithms-and-design-patterns
+
+Data structure and algorithm and design patterns
